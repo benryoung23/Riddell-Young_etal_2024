@@ -18,7 +18,5 @@ Step 2: Open and run abruptCH4iso_Fig1.m, H4_1box_fig2.m, and BCCM_Fig3.m.
   H1_1box.xlsx, H1_1boxR.xlsx, H5_13C_Diff.xlsx, H4_13C_Diff.xlsx, H1_13C_Diff.xlsx, H4_dD_Diff.xlsx, Bock2017_Taldice_C13.xlsx,
   EDC_13C.xlsx, EDML_13C.xlsx, Bock_NGRIP_dD.xlsx, Bock_EDML_dD_2017.xlsx, Sowers_2006_dD.xlsx, Zhang_2014_HuluH1.csv,
   Wang2001_Hulu_H1.csv, strikis2018_H1_SAM.csv, Bauska_CO2.csv, NGRIP_18O.csv, Cheng_2016.csv, H4_brazil_wendt.csv,
-  DO8HS4rIPDforBen.csv, WD06_CO2.xlsx, Bauska2018_d13C-CO2.csv, BCCM_oct2023.csv, WAIS_9_67k.csv, WAIS_OSU_CH4_9_68k.csv,
-  Taylor_Glacier_Combined_Data.csv, Taylor_Glacier_Combined_Splines.csv, 20230801T160402_baseline.mat, 
-  20240131T100009_120_160_EF_no_wetl_1000.mat, 20240131T100023_120_160_EF_no_wetl_parameters_1000.mat.
-	Output: Figures 1, 2 and 3 of manuscript.
+  DO8HS4rIPDforBen.csv, WD06_CO2.xlsx, Bauska2018_d13C-CO2.csv, BCCM_oct2023.csv, H5diff.xslx, H4diff.xlsx, H1diff.xlsx,
+  Diff_matrix.xlsx
