@@ -19,5 +19,6 @@ Step 2: Open and run abruptCH4iso_Fig1.m, H41box_fig2.m, BCCM_Fig3.m.
   H1_1box.xlsx, H1_1boxR.xlsx, H5_13C_Diff.xlsx, H4_13C_Diff.xlsx, H1_13C_Diff.xlsx, H4_dD_Diff.xlsx, Bock2017_Taldice_C13.xlsx,
   EDC_13C.xlsx, EDML_13C.xlsx, Bock_NGRIP_dD.xlsx, Bock_EDML_dD_2017.xlsx, Sowers_2006_dD.xlsx, Zhang_2014_HuluH1.csv,
   Wang2001_Hulu_H1.csv, strikis2018_H1_SAM.csv, Bauska_CO2.csv, NGRIP_18O.csv, Cheng_2016.csv, H4_brazil_wendt.csv,
-  DO8HS4rIPDforBen.csv, and several other files
+  DO8HS4rIPDforBen.csv, Rhodes_CFA.xskx, WD06_CO2.xlsx, Bauska2018_d13C-CO2.csv, BCCM_July2024.csv, Diff_matrix.xlsx, 
+  H5diff.xlsx, H4diff.xlsx, and H1diff.xlsx.
   	Output: Figure 1 and Figure 4 of the main text.
